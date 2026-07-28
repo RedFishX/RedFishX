@@ -5,6 +5,8 @@
 > *Building reliable infrastructure through automation.*
 
 ---
+[![My Skills](https://skillicons.dev/icons?i=python,docker,vscode&theme=light)](https://skillicons.dev)
+
 
 ## 🚀 About Me
 
@@ -62,6 +64,7 @@ When I'm not configuring networks, you'll probably find me writing Python script
 - Cloud Technologies
 
 ---
+
 
 ## 📊 GitHub Stats
 
