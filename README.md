@@ -66,8 +66,12 @@ When I'm not configuring networks, you'll probably find me writing Python script
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RedFishX&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedFishX&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RedFishX&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedFishX&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RedFishX&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -94,7 +98,7 @@ When I'm not configuring networks, you'll probably find me writing Python script
 ## 📫 Connect
 
 - 🌍 France
-- 💻 GitHub: **@RedFishCore**
+- 💻 GitHub: **@RedFishX**
 
 ---
 
